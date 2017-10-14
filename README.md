@@ -1,3 +1,7 @@
+RUN WITH JDK 1.7, not WITH 1.8!!!!!!!!!! (thats due to bytecode manipulations)
+
+
+
 It's simplest possible application which uses spring-data with spring and runs on google app engine.
 Apache Maven is used as build manager.
 
